@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655422907507",
+    "project_id": "registroautos-b0f22",
+    "storage_bucket": "registroautos-b0f22.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655422907507:android:b3d17ff4c5323070bb7606",
+        "android_client_info": {
+          "package_name": "com.victor.registroautosapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaJH2xZJ52gl_Z9fj_sSb_gyHhSuDvQAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
